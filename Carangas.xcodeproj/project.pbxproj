@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		9DBCEF9925FFFC5D0095A3FC /* car.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DBCEF9825FFFC5D0095A3FC /* car.swift */; };
+		9DBCEF9925FFFC5D0095A3FC /* Cars.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DBCEF9825FFFC5D0095A3FC /* Cars.swift */; };
 		9DBCEF9C25FFFD1E0095A3FC /* REST.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DBCEF9B25FFFD1E0095A3FC /* REST.swift */; };
 		A1B18D051F9C1BDD00313110 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1B18D041F9C1BDD00313110 /* AppDelegate.swift */; };
 		A1B18D0A1F9C1BDD00313110 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A1B18D081F9C1BDD00313110 /* Main.storyboard */; };
@@ -19,7 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		9DBCEF9825FFFC5D0095A3FC /* car.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = car.swift; sourceTree = "<group>"; };
+		9DBCEF9825FFFC5D0095A3FC /* Cars.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cars.swift; sourceTree = "<group>"; };
 		9DBCEF9B25FFFD1E0095A3FC /* REST.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = REST.swift; sourceTree = "<group>"; };
 		A1B18D011F9C1BDD00313110 /* Carangas.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Carangas.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A1B18D041F9C1BDD00313110 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -63,7 +63,7 @@
 			isa = PBXGroup;
 			children = (
 				A1B18D041F9C1BDD00313110 /* AppDelegate.swift */,
-				9DBCEF9825FFFC5D0095A3FC /* car.swift */,
+				9DBCEF9825FFFC5D0095A3FC /* Cars.swift */,
 				9DBCEF9B25FFFD1E0095A3FC /* REST.swift */,
 				A1B18D161F9C1D7E00313110 /* CarsTableViewController.swift */,
 				A1B18D181F9C1DBA00313110 /* AddEditViewController.swift */,
@@ -148,7 +148,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9DBCEF9925FFFC5D0095A3FC /* car.swift in Sources */,
+				9DBCEF9925FFFC5D0095A3FC /* Cars.swift in Sources */,
 				9DBCEF9C25FFFD1E0095A3FC /* REST.swift in Sources */,
 				A1B18D171F9C1D7E00313110 /* CarsTableViewController.swift in Sources */,
 				A1B18D051F9C1BDD00313110 /* AppDelegate.swift in Sources */,
