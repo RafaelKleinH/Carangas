@@ -21,11 +21,14 @@ class Cars: Codable {
         case 0:
             return "Flex"
         case 2:
-            return "Álcool"
-        default:
             return "Gasolina"
+        default:
+            return "Alcool"
         }
         
     }
     
+}
+struct Brand: Codable {
+    let fipe_name: String
 }
